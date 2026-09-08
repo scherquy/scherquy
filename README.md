@@ -6,7 +6,7 @@
       <a href="https://www.linkedin.com/in/joão-victor-da-rosa-schervensquy-77b9b242b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
       <a href="mailto:jschervensquy@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
       <h3>Olá Pessoal!</h3>
-      Tenho 24 anos, sou de Santana do Livramento/RS e estudante de Engenharia de Computação na UNIPAMPA, atualmente faço parte do Geração Caldeira na trilha de IA e Dados. Gosto de entender como as coisas funcionam e de colocar a mão na massa.
+      Tenho 24 anos, sou de Santana do Livramento/RS e estudante de Engenharia de Computação na UNIPAMPA. Atualmente faço parte do Geração Caldeira na trilha de IA e Dados. Gosto de entender como as coisas funcionam e de colocar a mão na massa.
     </td>
     <td width="30%" align="center">
       <img src="assets/avatar.png" width="160"/>
