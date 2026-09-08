@@ -1,16 +1,52 @@
-## Hi there 👋
+<table>
+<tr>
+<td width="170">
+<img src="assets/avatar.png" width="160"/>
+</td>
+<td>
 
-<!--
-**scherquy/scherquy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# João Victor Schervensquy
 
-Here are some ideas to get you started:
+<a href="https://github.com/scherquy" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+<!-- Troque os hrefs abaixo pelos seus links reais, ou apague os que não usar -->
+<a href="www.linkedin.com/in/joão-victor-da-rosa-schervensquy-77b9b242b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Olá Pessoal!
+Tenho 24 anos, sou de Santana do Livramento/RS e estudante de Engenharia de Computação na UNIPAMPA, atualmente faço parte do Geração Caldeira na trilha de IA e Dados. Gosto de entender como as coisas funcionam e de colocar a mão na massa
+
+</td>
+</tr>
+</table>
+
+## Sobre mim
+- Estudante de **Engenharia de Computação** na UNIPAMPA
+- Aluno do **Geração Caldeira**, na trilha de **IA e Dados**
+- Aprendendo a unir IA com desenvolvimento de jogos e sistemas inteligente
+- Curioso por astronomia, matemática e por entender como as coisas funcionam
+- Fora da tecnologia: corrida, musculação, punk rock e jogos
+
+## 🛠️ Tecnologias e ferramentas
+<p align="left">
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+</p>
+
+## 📊 Estatísticas do GitHub
+<div>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scherquy&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=scherquy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+## 🐍 Minhas contribuições
+![Snake animation](https://github.com/scherquy/scherquy/blob/output/github-contribution-grid-snake.svg)
+
+## 📫 Contatos
+<div>
+<a href="https://github.com/scherquy" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href="www.linkedin.com/in/joão-victor-da-rosa-schervensquy-77b9b242b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:jschervensquy@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+</div>
