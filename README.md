@@ -36,13 +36,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=scherquy&theme=dracula&hide_border=true&locale=pt_BR" alt="GitHub Streak" />
 </div>
 
-## 🏆 Minhas conquistas
-<div align="center">
-
-![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=scherquy&theme=dracula&no-bg=true&no-frame=true&margin-w=15)
-
-</div>
-
 ## 📫 Contatos
 <div>
 <a href="https://github.com/scherquy" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
