@@ -32,12 +32,12 @@
 
 ## 📊 Estatísticas do GitHub
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=scherquy&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=scherquy&theme=dracula&hide_border=true&locale=pt_BR" alt="GitHub Streak" />
 </div>
 
 ## 📈 Minhas contribuições
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=scherquy&theme=dracula&hide_border=true&area=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=scherquy&theme=dracula&hide_border=true&locale=pt-br" alt="Gráfico de Atividades" />
 </div>
 
 ## 📫 Contatos
