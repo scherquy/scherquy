@@ -4,6 +4,7 @@
       <h1>João Victor da Rosa Schervensquy</h1>
       <a href="https://github.com/scherquy" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
       <a href="https://www.linkedin.com/in/joão-victor-da-rosa-schervensquy-77b9b242b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+      <a href="mailto:jschervensquy@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
       <h3>Olá Pessoal!</h3>
       Tenho 24 anos, sou de Santana do Livramento/RS e estudante de Engenharia de Computação na UNIPAMPA, atualmente faço parte do Geração Caldeira na trilha de IA e Dados. Gosto de entender como as coisas funcionam e de colocar a mão na massa.
     </td>
@@ -35,10 +36,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=scherquy&theme=dracula&hide_border=true&locale=pt_BR" alt="GitHub Streak" />
 </div>
 
-## 📈 Minhas contribuições
+## 🏆 Minhas conquistas
 <div align="center">
 
-![Minhas Contribuições](https://github-readme-activity-graph.vercel.app/graph?username=scherquy&theme=dracula&hide_border=true&custom_title=Minhas%20Contribuições)
+![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=scherquy&theme=dracula&no-bg=true&no-frame=true&margin-w=15)
 
 </div>
 
