@@ -32,15 +32,12 @@
 
 ## 📊 Estatísticas do GitHub
 <div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scherquy&layout=compact&langs_count=7&theme=dracula)](https://github.com/scherquy)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=scherquy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/scherquy)
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=scherquy&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </div>
 
-## 🐍 Minhas contribuições
+## 📈 Minhas contribuições
 <div align="center">
-<img alt="Snake animation" src="https://raw.githubusercontent.com/scherquy/scherquy/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=scherquy&theme=dracula&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
 ## 📫 Contatos
