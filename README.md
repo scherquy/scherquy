@@ -37,7 +37,9 @@
 
 ## 📈 Minhas contribuições
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=scherquy&theme=dracula&hide_border=true&locale=pt-br" alt="Gráfico de Atividades" />
+
+![Minhas Contribuições](https://github-readme-activity-graph.vercel.app/graph?username=scherquy&theme=dracula&hide_border=true&custom_title=Minhas%20Contribuições)
+
 </div>
 
 ## 📫 Contatos
