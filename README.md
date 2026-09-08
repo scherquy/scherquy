@@ -9,7 +9,7 @@
       Tenho 24 anos, sou de Santana do Livramento/RS e estudante de Engenharia de Computação na UNIPAMPA. Atualmente faço parte do Geração Caldeira na trilha de IA e Dados. Gosto de entender como as coisas funcionam e de colocar a mão na massa.
     </td>
     <td width="30%" align="center">
-      <img src="assets/avatar.png" width="160"/>
+      <img src="assets/avatar.png" width="200"/>
     </td>
   </tr>
 </table>
