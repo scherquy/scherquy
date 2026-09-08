@@ -18,7 +18,7 @@
 - Estudante de **Engenharia de Computação** na UNIPAMPA
 - Aluno do **Geração Caldeira**, na trilha de **IA e Dados**
 - Aprendendo a unir IA com desenvolvimento de jogos e sistemas inteligentes
-- Curioso por astronomia, matemática e por entender como as coisas funcionam
+- Curioso por astronomia, matemática, tecnologia e por entender como as coisas funcionam
 - Hobbies: corrida, musculação, jogos e ouvir punk rock
 
 ## 🛠️ Tecnologias e ferramentas
